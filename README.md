@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://cff2.earth.com/uploads/2019/08/21152414/lily-3520837_1280.jpg alt="mriscan Logo" width="300" height="200">
+  <img src=https://i.imgur.com/32iIUQQ.jpg alt="mriscan Logo" width="700" height="350">
 </p>
 
 
