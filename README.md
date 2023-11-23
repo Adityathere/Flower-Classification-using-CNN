@@ -1,8 +1,4 @@
-<p align="center">
-  <img src=https://i.imgur.com/32iIUQQ.jpg alt="mriscan Logo" width="800" height="400">
-</p>
-
-
+![Screenshot](https://i.imgur.com/32iIUQQ.jpg)
 
 # Flower Classification using CNN
 
